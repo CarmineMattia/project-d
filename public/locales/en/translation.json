@@ -1,0 +1,35 @@
+{
+  "memorialProfile": "Memorial Profile",
+  "fontSizeButton": "Font Size {{size}}",
+  "biography": "Tienno Pattacini was a renowned Italian accordionist, composer, and orchestra conductor. Born in Castelnovo ne' Monti, he became famous for his virtuosity with the accordion and his contributions to the development of folk music, particularly the 'liscio' genre. Pattacini founded his own orchestra in 1940 and composed numerous pieces that became classics of the genre. His legacy continues to influence Italian folk music to this day.",
+  "personalInterests": "Personal Interests",
+  "interests": {
+    "Accordion": "Accordion",
+    "Composing": "Composing",
+    "Conducting": "Conducting",
+    "Folk Music": "Folk Music"
+  },
+  "familyConnections": "Family Connections",
+  "family": {
+    "0": "Spouse: Information not available",
+    "1": "Children: Information not available"
+  },
+  "photoGallery": "Photo Gallery",
+  "photoAlt": {
+    "saxophone": "Tienno Pattacini with a saxophone",
+    "performance": "Tienno Pattacini performing",
+    "portrait": "Portrait of Tienno Pattacini",
+    "albumCover": "Album cover featuring Tienno Pattacini"
+  },
+  "videoGallery": "Video Gallery",
+  "leaveMemory": "Leave a Memory",
+  "yourName": "Your Name",
+  "shareMemory": "Share your memory...",
+  "submitMemory": "Submit Memory",
+  "memories": "Memories",
+  "footer": "In loving memory of {{name}}",
+  "comments": "Comments",
+  "addComment": "Add a comment...",
+  "comment": "Comment",
+  "cancel": "Cancel"
+}

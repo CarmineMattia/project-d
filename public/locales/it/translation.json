@@ -1,0 +1,35 @@
+{
+  "memorialProfile": "Profilo Commemorativo",
+  "fontSizeButton": "Dimensione Carattere {{size}}",
+  "biography": "Tienno Pattacini è stato un rinomato fisarmonicista, compositore e direttore d'orchestra italiano. Nato a Castelnovo ne' Monti, divenne famoso per la sua virtuosità con la fisarmonica e per i suoi contributi allo sviluppo della musica folk, in particolare del genere 'liscio'. Pattacini fondò la sua orchestra nel 1940 e compose numerosi brani che divennero classici del genere. La sua eredità continua a influenzare la musica folk italiana ancora oggi.",
+  "personalInterests": "Interessi Personali",
+  "interests": {
+    "Accordion": "Fisarmonica",
+    "Composing": "Composizione",
+    "Conducting": "Direzione d'orchestra",
+    "Folk Music": "Musica Folk"
+  },
+  "familyConnections": "Connessioni Familiari",
+  "family": {
+    "0": "Coniuge: Informazioni non disponibili",
+    "1": "Figli: Informazioni non disponibili"
+  },
+  "photoGallery": "Galleria Fotografica",
+  "photoAlt": {
+    "saxophone": "Tienno Pattacini con un sassofono",
+    "performance": "Tienno Pattacini durante un'esibizione",
+    "portrait": "Ritratto di Tienno Pattacini",
+    "albumCover": "Copertina di un album con Tienno Pattacini"
+  },
+  "videoGallery": "Galleria Video",
+  "leaveMemory": "Lascia un Ricordo",
+  "yourName": "Il Tuo Nome",
+  "shareMemory": "Condividi il tuo ricordo...",
+  "submitMemory": "Invia Ricordo",
+  "memories": "Ricordi",
+  "footer": "In amorevole memoria di {{name}}",
+  "comments": "Commenti",
+  "addComment": "Aggiungi un commento...",
+  "comment": "Commenta",
+  "cancel": "Annulla"
+}
